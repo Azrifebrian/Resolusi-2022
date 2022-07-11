@@ -1,0 +1,4 @@
+Resolusi saya di 2022
+
+1 -membuat website form login yang responsif
+2 -membuat database dari form login tersebut
